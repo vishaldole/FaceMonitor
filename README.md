@@ -1,1 +1,2 @@
 # FaceMonitor
+Welcome to the FaceMonitor : Hostel Student Face Detection and Recognition System! This system is designed to automate the process of identifying and recognizing students residing in a hostel environment. It utilizes advanced computer vision techniques to detect and match faces in real-time, providing an efficient and secure way to manage student attendance and access control within the hostel premises.
